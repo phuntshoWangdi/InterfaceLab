@@ -1,0 +1,14 @@
+minicom −b 9600 −o −D /dev/ttyS0
+
+USB to TTL
+white-->8(4)
+green-->10(5)
+black-->12(7)
+
+| |1|
+| |2|
+| |3|
+| |4|tx
+| |5|rx
+| |6|
+| |7|gnd
