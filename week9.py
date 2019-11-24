@@ -5,10 +5,10 @@ from datetime import datetime
 import smtplib
 #setup for sending email
 def send_email():
-    smtpUser = 'ad9689@gmail.com'
-    stmpPass = '30286779'
+    smtpUser = 'xxxxx@gmail.com'
+    stmpPass = '******'
 
-    toAdd = 'aditya_raj01@hotmail.com'
+    toAdd = 'xxxx@hotmail.com'
     fromAdd = smtpUser
 
     subject = 'Intruder Detected!!!'
