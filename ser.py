@@ -1,5 +1,4 @@
 import serial
-import gpiozero
 
 ser = serial.Serial(port='/dev/ttyS0',
                     baudrate=9600,
